@@ -5,12 +5,19 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hi, I'm Ayshi 👋
+
+Data Analyst | Python | SQL | Power BI
+
+* 📊 Turning data into actionable insights
+* 📈 Focus: Marketing analytics, customer segmentation, A/B testing
+* 🛠️ Tools: Python, Pandas, SQL, Power BI
+
+## 🔥 Featured Projects
+
+* Marketing Campaign Analytics (A/B Testing + Dashboard)
+* Customer RFM Segmentation
+
+## 📫 Connect with me
+
+* LinkedIn: [www.linkedin.com/in/ayshi-mitra-a61ba5168]
